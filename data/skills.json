@@ -1,0 +1,54 @@
+{
+    "skill1":{
+        "title": "ادوبي انديز اين",
+        "percent": "80%",
+        "color": "#e749a0"
+    },
+
+    "skill2":{
+        "title": "ادوبي  فوتوشوب",
+        "percent": "90%",
+        "color": "#87bdf4"
+    },
+
+
+    "skill3":{
+        "title": "ادوبي إنيستريتور ",
+        "percent": "70%",
+        "color": "#f4a950"
+    },
+
+    "skill4":{
+        "title": "كوريل درو  ",
+        "percent": "95%",
+        "color": "#8dd352"
+    },
+
+    "skill5":{
+        "title": " سكبتش ",
+        "percent": "82%",
+        "color": "#000000"
+    },
+
+
+    "skill6":{
+        "title": "ادوبي اكس دي ",
+        "percent": "75%",
+        "color": "#f75eee"
+    },
+    
+
+    "skill7":{
+        "title": "تجربة المستخدم   ",
+        "percent": "85%",
+        "color": "#000fdc"
+    },
+
+    "skill8":{
+        "title": "اختبار الالوان   ",
+        "percent": "75%",
+        "color": "#f8874f"
+    }
+
+
+}

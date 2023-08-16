@@ -1,0 +1,25 @@
+{
+    "call":{
+        "title": "الهاتف المحمول",
+        "icon": "fas fa-phone",
+        "contect": "5668 6889 889"
+    },
+
+    "chat":{
+        "title": "التواصل عبر الواتساب ",
+        "icon": "fab fa-whatsapp",
+        "contect": "5668 6889 889"
+    },
+
+    "email1":{
+        "title": "البريد الالكتروني ",
+        "icon": "fas fa-envelope",
+        "contect":"examlp@examlp.com"
+    },
+
+    "email2":{
+        "title": "البريد الالكتروني الخاص بالعمل",
+        "icon": "fas fa-envelope",
+        "contect":"examlp@examlp.com"
+    }
+}

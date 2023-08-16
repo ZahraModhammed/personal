@@ -1,0 +1,29 @@
+{
+    "fullName":{
+        "title": "الاسم",
+        "icon": "fas fa-user-alt",
+        "content": "احمد محمود احمد محمد"
+         
+    },
+
+    "maritalStatus":{
+        "title": "الحالة الاجتماعية",
+        "icon": "fas fa-heart",
+        "content": "عازب   "
+         
+    }, 
+
+    "myBirthday":{
+        "title": "تاريخ الميلاد",
+        "icon": "fas fa-birthday-cake",
+        "content": "5-5-1999"
+         
+    },
+
+    "natioality":{
+        "title": "الجنسية",
+        "icon": "fas fa-flag",
+        "content": "  مصري "
+         
+    }
+}
